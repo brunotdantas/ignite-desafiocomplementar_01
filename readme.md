@@ -7,10 +7,10 @@
 <h1 align="center">Desafio complementar módulo 01 da RocketSeat</h1>
 
 <br>
-<div align="center">
+
   O Objetivo deste desafio é alterar uma aplicação que está centralizada em componentes, praticando o uso de props e interfaces
   A descrição do desafio pode ser acessado [aqui](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1) 
-</div>
+
 
 ![app](https://user-images.githubusercontent.com/19207320/111241960-f5ea3b80-85dc-11eb-8e7a-d26297bf857b.gif)
 
